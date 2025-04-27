@@ -1,4 +1,6 @@
-# Istio
+# Istio - A Service Mesh Tool
+
+![image](https://github.com/harshitsahu2311/Istio-Guide-for-DevOps/blob/main/istio.gif)
 
 ### Admission Controllers
 
